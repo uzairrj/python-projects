@@ -1,2 +1,2 @@
-# python-projects
-My private python projects
+# My University Projects Python
+These are some my university projects of python
